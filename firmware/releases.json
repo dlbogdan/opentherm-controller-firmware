@@ -1,0 +1,10 @@
+[
+  {
+    "version": "1.0.2",
+    "model": "prototype-a1",
+    "file": "firmware\\prototype-a1\\v1.0.2.ctar",
+    "sha256": "acb09da98c4ac6d04084035cb944b9639c56ba304af12dcb6afd7eac46fe1a53",
+    "release_date": "2025-05-12",
+    "changelog": "Release 1.0.2 for prototype-a1 (compressed)"
+  }
+]
