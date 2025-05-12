@@ -1,5 +1,21 @@
 [
   {
+    "version": "1.0.4",
+    "model": "prototype-a1",
+    "file": "firmware/prototype-a1/v1.0.4.ctar",
+    "sha256": "e2f3fc4dce6ff1dc103f477e57b4ee02a08d3b99ac7e54cf69fabd3709937139",
+    "release_date": "2025-05-12",
+    "changelog": "Release 1.0.4 for prototype-a1 (compressed)"
+  },
+  {
+    "version": "1.0.4",
+    "model": "ota-updater",
+    "file": "firmware/ota-updater/v1.0.4.ctar",
+    "sha256": "c592401d54c1b429e62fff417cb6349256985ed2dae03788934be279749bab21",
+    "release_date": "2025-05-12",
+    "changelog": "Release 1.0.4 for ota-updater (compressed)"
+  },
+  {
     "version": "1.0.3",
     "model": "prototype-a1",
     "file": "firmware/prototype-a1/v1.0.3.ctar",
